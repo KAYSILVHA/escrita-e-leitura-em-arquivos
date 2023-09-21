@@ -1,10 +1,1 @@
-[
-  {
-    "nome": "José",
-    "idade": 40
-  },
-  {
-    "nome": "Guido",
-    "idade": 31
-  }
-]
+[{"nome":"José","idade":40},{"nome":"Guido","idade":31},{"nome":"Ana","idade":21},{"nome":"Joana","idade":21}]
